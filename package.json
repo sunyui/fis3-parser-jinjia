@@ -1,0 +1,23 @@
+{
+  "name": "fis3-parser-jinjia",
+  "version": "0.0.1",
+  "description": "A parser for fis3 to compile jinjia template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunyui/fis3-parser-jinjia.git"
+  },
+  "keywords": [
+    "fis",
+    "jinjia"
+  ],
+  "author": "yan sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunyui/fis3-parser-jinjia/issues"
+  },
+  "homepage": "https://github.com/sunyui/fis3-parser-jinjia#readme"
+}
